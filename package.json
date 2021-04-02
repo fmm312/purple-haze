@@ -1,0 +1,21 @@
+{
+    "name": "viper-theme",
+    "displayName": "Viper Theme",
+    "description": "Viper is a theme for VSCode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Viper Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Viper Theme-color-theme.json"
+            }
+        ]
+    }
+}
