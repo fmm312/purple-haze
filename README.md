@@ -4,13 +4,12 @@
 [![Version](https://img.shields.io/badge/License-MIT-00adb5.svg)](https://github.com/fmm312/purple-haze/blob/master/LICENSE)
 
 
-```
-Purple Haze is a beautiful dark theme for Visual Studio Code
-```
 
-<div style="text-align:center; margin-bottom: 40px">
-<img src="./assets/logo.jpg" alt="Purple Haze logo" style="width:400px; margin-top: 20px"/>
+Purple Haze is a beautiful dark theme for Visual Studio Code. This is what Purple Haze looks like:
+<div style="text-align:center; margin-top: 20px">
+<img src="./assets/screenshot.png" alt="Purple Haze screenshot" />
 </div>
+
 
 ## Install
 
@@ -21,12 +20,6 @@ Purple Haze is a beautiful dark theme for Visual Studio Code
 
 ## Activating theme
 Run Visual Studio Code. The **Purple Haze Theme** theme will be available from File -> Preferences -> Color Theme dropdown menu.
-
-This is what Purple Haze looks like:
-<div style="text-align:center; margin-top: 20px">
-<img src="./assets/screenshot.png" alt="Purple Haze screenshot" />
-</div>
-
 
 ## License
 Please be aware of the licenses of the components we use in this project. Everything else that has been developed by the contributions to this project is under [MIT License](https://github.com/fmm312/purple-haze/blob/master/LICENSE)
