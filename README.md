@@ -1,11 +1,28 @@
-# Purple Haze
+# Purple Haze Theme
+[![Version](https://img.shields.io/badge/Version-1.0.0-e94560.svg)]()
+[![Version](https://img.shields.io/badge/Contribute-PRs-e94560.svg)](https://github.com/fmm312/purple-haze/pulls)
+
+```
+Purple Haze is a beautiful dark theme for Visual Studio Code
+```
 
 <div style="text-align:center; margin-bottom: 40px">
-<img src="./assets/logo.jpg" alt="Purple Haze logo." style="width:400px;"/>
+<img src="./assets/logo.jpg" alt="Purple Haze logo" style="width:400px; margin-top: 20px"/>
 </div>
 
-## About
-Purple Haze is a beautiful dark theme for VS Code.
-
-
 ## Install
+
+1.  Press Ctrl+Shift+P
+2.  Then enter Install Extension
+3.  Write **Purple Haze Theme**
+4.  Select it or press Enter to install.
+
+## Activating theme
+Run Visual Studio Code. The **Purple Haze Theme** theme will be available from File -> Preferences -> Color Theme dropdown menu.
+
+This is what Purple Haze looks like:
+<div style="text-align:center; margin-top: 20px">
+<img src="./assets/screenshot.png" alt="Purple Haze screenshot" />
+</div>
+
+

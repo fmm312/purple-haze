@@ -1,8 +1,9 @@
 {
     "name": "purple-haze-theme",
+    "publisher": "PurpleHazeTheme",
     "displayName": "Purple Haze Theme",
     "description": "Purple Haze is a beautiful dark theme for Visual Studio Code",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.55.0"
     },
@@ -16,7 +17,7 @@
     "bugs": {
         "url": "https://github.com/fmm312/purple-haze/issues"
     },
-    "icon": "./assets/logo2.jpg",
+    "icon": "assets/logo2.jpg",
     "keywords": [
         "Purple Haze Theme",
         "Dark theme",
@@ -30,7 +31,7 @@
             {
                 "label": "Purple Haze Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/purple-haze-color-theme.json"
+                "path": "./themes/color-theme.json"
             }
         ]
     }
