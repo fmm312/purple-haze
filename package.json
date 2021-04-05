@@ -1,7 +1,7 @@
 {
     "name": "purple-haze-theme",
     "displayName": "Purple Haze Theme",
-    "description": "Purple Haze is a dark theme for VSCode",
+    "description": "Purple Haze is a beautiful dark theme for Visual Studio Code",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.55.0"
@@ -22,6 +22,7 @@
         "Dark theme",
         "VSCode",
         "Dark",
+        "Purple",
         "VSCode theme"
     ],
     "contributes": {
