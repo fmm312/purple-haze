@@ -4,25 +4,58 @@
 	"colors": {
 		"editor.background": "#2b1f31",
 		"editor.foreground": "#f2f2f2",
+		"editor.selectionBackground": "#5c3f66",
+		"editorGroupHeader.tabsBackground": "#221726",
+		"editorGroupHeader.border": "#2b1f31",
+
 		"activityBarBadge.background": "#e94560",
+		"focusBorder": "#6c5375",
+		"button.background": "#2b1f31",
+
 		"sideBarTitle.foreground": "#bbbbbb",
 		"activityBar.background": "#2b1f31",
 		"sideBar.background": "#221726",
-		"focusBorder": "#6c5375",
-		"button.background": "#2b1f31",
 		"sideBar.foreground": "#bbbbbb",
-		"editorGroupHeader.tabsBackground": "#221726",
-		"editorGroupHeader.border": "#2b1f31",
+
 		"tab.activeBorder": "#C792EA",
 		"tab.activeBackground": "#2b1f31",
 		"tab.inactiveBackground": "#322238",
-		"editor.selectionBackground": "#5c3f66",
+
 		"statusBar.background" : "#221726",
     "statusBar.noFolderBackground" : "#221726",
     "statusBar.debuggingBackground": "#221726",
 		"statusBar.border": "#6c5375",
+		
 		"minimap.background": "#221726",
-		"textLink.foreground": "#f07178"
+		"textLink.foreground": "#f07178",
+
+		"notifications.background": "#2b1f31",
+		"notifications.foreground": "#bbbbbb",
+		"notificationsInfoIcon.foreground": "#C3E88D",
+		"notificationsWarningIcon.foreground": "#FFCB6B",
+		"notificationsErrorIcon.foreground": "#e94560",
+
+		"terminal.background": "#221726",
+		"terminal.foreground": "#d9d9d9",
+		"terminal.ansiBlack": "#151515",
+		"terminal.ansiBlue": "#6a8799",
+		"terminal.ansiBrightBlack": "#636363",
+		"terminal.ansiBrightBlue": "#C3E88D",
+		"terminal.ansiBrightCyan": "#acbbd0",
+		"terminal.ansiBrightGreen": "#f07178",
+		"terminal.ansiBrightMagenta": "#b48ead",
+		"terminal.ansiBrightRed": "#bc5653",
+		"terminal.ansiBrightWhite": "#f7f7f7",
+		"terminal.ansiBrightYellow": "#ebc17a",
+		"terminal.ansiCyan": "#c9dfff",
+		"terminal.ansiGreen": "#909d63",
+		"terminal.ansiMagenta": "#b06698",
+		"terminal.ansiRed": "#bc5653",
+		"terminal.ansiWhite": "#d9d9d9",
+		"terminal.ansiYellow": "#ebc17a",
+		"terminal.selectionBackground": "#6a79853a",
+		"terminalCursor.background": "#d9d9d9",
+		"terminalCursor.foreground": "#d9d9d9"
 	},
 	"tokenColors": [
 		{
@@ -79,7 +112,7 @@
 		{
 			"name": "Operator, Misc",
 			"scope": [
-				"keyword.control",
+				// "keyword.control",
 				// "constant.other.color",
 				// "punctuation",
 				// "meta.tag",
@@ -117,7 +150,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#00adb5"
 			}
 		},
 		{
@@ -126,7 +159,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#f2f2f2"
 			}
 		},
 		{
@@ -136,7 +169,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#f2f2f2"
 			}
 		},
 		{
@@ -237,7 +270,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#82AAFF"
+				"foreground": "#00adb5"
 			}
 		},
 		{
@@ -247,7 +280,7 @@
 				"variable.function.constructor"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#00adb5"
 			}
 		},
 		{
@@ -285,7 +318,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#00adb5"
 			}
 		},
 		{
@@ -352,7 +385,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#82AAFF"
+				"foreground": "#00adb5"
 			}
 		},
 		{
@@ -416,7 +449,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#00adb5"
 			}
 		},
 		{
@@ -555,7 +588,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#00adb5"
 			}
 		},
 		{

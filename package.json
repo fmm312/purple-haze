@@ -1,7 +1,7 @@
 {
-    "name": "viper-theme",
-    "displayName": "Viper Theme",
-    "description": "Viper is a theme for VSCode",
+    "name": "purple-haze-theme",
+    "displayName": "Purple Haze Theme",
+    "description": "Purple Haze is a dark theme for VSCode",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.55.0"
@@ -9,12 +9,27 @@
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fmm312/purple-haze"
+    },
+    "bugs": {
+        "url": "https://github.com/fmm312/purple-haze/issues"
+    },
+    "icon": "",
+    "keywords": [
+        "Purple Haze Theme",
+        "Dark theme",
+        "VSCode",
+        "Dark",
+        "VSCode theme"
+    ],
     "contributes": {
         "themes": [
             {
-                "label": "Viper Theme",
+                "label": "Purple Haze Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Viper Theme-color-theme.json"
+                "path": "./themes/purple-haze-color-theme.json"
             }
         ]
     }
