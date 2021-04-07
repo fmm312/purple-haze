@@ -8,12 +8,7 @@
 </div>
 
 ## About
-Purple Haze is a beautiful dark theme for Visual Studio Code. It was built based mainly on the following color palette:
-| Color  | Hex |
-| ------------- |:-------------:|
-| <div style="background: red; width: 20px; height: 20px; margin-left: 8px"> | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
+Purple Haze is a beautiful dark theme for Visual Studio Code. 
 
 ## Install
 
