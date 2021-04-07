@@ -3,13 +3,17 @@
 [![Version](https://img.shields.io/badge/Contribute-PRs-2b1f31.svg)](https://github.com/fmm312/purple-haze/pulls)
 [![Version](https://img.shields.io/badge/License-MIT-2b1f31.svg)](https://github.com/fmm312/purple-haze/blob/master/LICENSE)
 
-```
-Purple Haze is a beautiful dark theme for Visual Studio Code.
-```
 <div style="text-align:center; margin-top: 20px">
   <img src="./assets/screenshot.jpg" alt="Purple Haze screenshot" />
 </div>
 
+## About
+Purple Haze is a beautiful dark theme for Visual Studio Code. It was built based mainly on the following color palette:
+| Color  | Hex |
+| ------------- |:-------------:|
+| <div style="background: red; width: 20px; height: 20px; margin-left: 8px"> | right foo     |
+| left bar      | right bar     |
+| left baz      | right baz     |
 
 ## Install
 
