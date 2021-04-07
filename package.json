@@ -1,8 +1,11 @@
 {
     "name": "purple-haze-theme",
-    "publisher": "PurpleHazeTheme",
+    "publisher": "fmm312",
     "displayName": "Purple Haze Theme",
     "description": "Purple Haze is a beautiful dark theme for Visual Studio Code",
+    "author": {
+        "name": "Felipe Menezes"
+    },
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.55.0"
