@@ -6,9 +6,8 @@
 ```
 Purple Haze is a beautiful dark theme for Visual Studio Code.
 ```
- This is what Purple Haze looks like:
 <div style="text-align:center; margin-top: 20px">
-<img src="./assets/screenshot.png" alt="Purple Haze screenshot" />
+  <img src="./assets/screenshot.jpg" alt="Purple Haze screenshot" />
 </div>
 
 
