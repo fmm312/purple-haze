@@ -4,7 +4,7 @@
 [![Version](https://img.shields.io/badge/License-MIT-2b1f31.svg)](https://github.com/fmm312/purple-haze/blob/master/LICENSE)
 
 <div style="text-align:center; margin-top: 20px">
-  <img src="./assets/screenshot.jpg" alt="Purple Haze screenshot" />
+  <img src="https://raw.githubusercontent.com/fmm312/purple-haze/master/assets/screenshot.jpg?token=AEU3OOQ3BLGFUO3FSH7GE53ANUI64" alt="Purple Haze screenshot" />
 </div>
 
 ## About
