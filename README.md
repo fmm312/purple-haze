@@ -1,5 +1,5 @@
 # Purple Haze
-[![Version](https://img.shields.io/badge/Version-1.0.1-2b1f31.svg)]()
+[![Version](https://img.shields.io/badge/Version-1.0.3-2b1f31.svg)]()
 [![Version](https://img.shields.io/badge/Contribute-PRs-2b1f31.svg)](https://github.com/fmm312/purple-haze/pulls)
 [![Version](https://img.shields.io/badge/License-MIT-2b1f31.svg)](https://github.com/fmm312/purple-haze/blob/master/LICENSE)
 
