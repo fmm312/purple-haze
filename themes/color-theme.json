@@ -12,9 +12,8 @@
 		"editorGroupHeader.tabsBackground": "#221726",
 		"editorGroupHeader.border": "#2b1f31",
 
-		"editorLineNumber.activeForeground": "#f07178",
-
-		"editorCursor.foreground": "#f07178",
+		"editorLineNumber.activeForeground": "#c4a6ce",
+		"editorCursor.foreground": "#c4a6ce",
 
 		"activityBarBadge.background": "#f07178",
 		"focusBorder": "#6c5375",
