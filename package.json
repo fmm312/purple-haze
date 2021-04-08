@@ -6,7 +6,7 @@
     "author": {
         "name": "Felipe Menezes"
     },
-    "version": "1.0.1",
+    "version": "1.0.2",
     "engines": {
         "vscode": "^1.55.0"
     },
