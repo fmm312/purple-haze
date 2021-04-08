@@ -3,9 +3,7 @@
 [![Version](https://img.shields.io/badge/Contribute-PRs-2b1f31.svg)](https://github.com/fmm312/purple-haze/pulls)
 [![Version](https://img.shields.io/badge/License-MIT-2b1f31.svg)](https://github.com/fmm312/purple-haze/blob/master/LICENSE)
 
-<div style="text-align:center; margin-top: 20px">
-  <img src="https://github.com/fmm312/purple-haze/blob/master/assets/screenshot.jpg" alt="Purple Haze screenshot" />
-</div>
+<img src="assets/screenshot.jpg" alt="Purple Haze screenshot" />
 
 ## About
 Purple Haze is a beautiful dark theme for Visual Studio Code. 
