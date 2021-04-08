@@ -5,8 +5,16 @@
 		"editor.background": "#2b1f31",
 		"editor.foreground": "#f2f2f2",
 		"editor.selectionBackground": "#5c3f66",
+		"editor.findMatchBackground": "#5c3f66",
+		"editor.findMatchHighlightBackground": "#5c3f66",
+		"editor.lineHighlightBackground": "#392a41",
+
 		"editorGroupHeader.tabsBackground": "#221726",
 		"editorGroupHeader.border": "#2b1f31",
+
+		"editorLineNumber.activeForeground": "#f07178",
+
+		"editorCursor.foreground": "#f07178",
 
 		"activityBarBadge.background": "#f07178",
 		"focusBorder": "#6c5375",
