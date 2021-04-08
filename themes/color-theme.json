@@ -36,6 +36,7 @@
 		
 		"minimap.background": "#221726",
 		"textLink.foreground": "#f07178",
+		"textLink.activeForeground": "#f05f66",
 
 		"notifications.background": "#2b1f31",
 		"notifications.foreground": "#bbbbbb",
